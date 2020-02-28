@@ -7,16 +7,20 @@ In Feb 28th, I was determined to shake some very bad habits of mine and seek to 
  
 Today I would like to declare here: the good days for me has now **gone**.
 
-# Day 0
+## Day 0
 From tomorrow, the **SET** getup time is now mutable: _6:30_. Arrange your fall to bed time in advance!
 Lets see whether I can achieve it tommorrow morning.
 
-### Any content following is from the Github Pages theme template and remained for the sake of Markdown grammar reference.
+## Day 1
+Get awake in 6:30 but get up in 7:10, no phone played on bed.
+
+
+### Any content below is from the Github Pages theme template and remained for the sake of Markdown grammar reference.
 You can use the [editor on GitHub](https://github.com/getsunrising/getsunrising.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
