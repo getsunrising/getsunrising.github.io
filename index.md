@@ -11,7 +11,7 @@ Today I would like to declare here: the good days for me has now **gone**.
 From tomorrow, the **SET** getup time is now mutable: _6:30_. Arrange your fall to bed time in advance!
 Lets see whether I can achieve it tommorrow morning.
 
-###Any content following is from the Github Pages theme template and remained for the sake of Markdown grammar reference.
+### Any content following is from the Github Pages theme template and remained for the sake of Markdown grammar reference.
 You can use the [editor on GitHub](https://github.com/getsunrising/getsunrising.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
