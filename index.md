@@ -4,7 +4,7 @@ In Feb 28th, I was determined to shake some very bad habits of mine and seek to 
  a man ignorant of many many uselss junk information that I now hold,
  a man who once said "Good books give you much wisdom; 90% of the Internet contnent is junk.".
 
-
+ 
 Today I would like to declare here: the good days for me has now **gone**.
 
 # Day 0
